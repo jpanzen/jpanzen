@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpanzen
-- 👀 I’m interested in JAMstack technologies and philosophy
+- 👀 I’m interested in JAMstack technologies and philosophy.
 - 🌱 I’m currently learning TypeScript, Next.js and headless CMS
 
 <!---
